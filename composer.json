@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^10|^11",
+        "illuminate/support": "^10|^11|^12",
         "filament/filament": "^3.2"
     },
     "extra": {
